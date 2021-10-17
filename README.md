@@ -1,12 +1,7 @@
-# WebServer + RestServer
+## Basic crud operations whit node using knex and sqlite3
 
-## Descargar y correr el proyecto
+# Download and run the project.
 
-Una vez clonado o descargado el proyecto, instalar dependencias:
+# Once the project is cloned or downloaded, install dependencies:
 
-### `npm install`
-
-
-## Documentacion 
-
-# Link: `https://documenter.getpostman.com/view/17068484/U16gNmWR`
+'npm install'
